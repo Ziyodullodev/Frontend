@@ -1,0 +1,98 @@
+/* GLOBAL */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color: #000;
+    background-color: #fff;
+}
+
+/* HEADER */
+
+.site-logo-img{
+    height: 50px;
+    object-fit: cover;
+}
+
+.sitenav-list {
+    list-style: none;
+}
+
+.sitenav-link {
+    font-family: 'Bebas Neue', sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+}
+
+
+/* HERO */
+
+.hero {
+    background-color: aquamarine;
+}
+
+.hero-heading {
+    font-size: 60px;
+}
+
+.btn {
+    text-decoration: none;
+}
+
+.hero-btn {
+    color: #fff;
+}
+
+
+/* NEWS */
+
+.news-heading, .viloyatlar-heading {
+    font-size: 32px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.news-list {
+    list-style: none;
+}
+
+.news-item-img {
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+}
+
+/* ASIDE */
+
+.aside {
+    background-color: skyblue;
+}
+
+
+/* VILOYATLAR */
+
+.viloyatlar-list {
+    list-style: none;
+}
+
+.viloyatlar-link {
+    font-size: 24px;
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #000;
+}
+
+/* FALLOWING */
+
+.fallowing {
+    background-color: skyblue;
+}
+
+.fallowing-list {
+    list-style: none;
+}

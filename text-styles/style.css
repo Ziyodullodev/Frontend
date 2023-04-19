@@ -1,0 +1,19 @@
+.parent-body {
+    background-color: orange;
+}
+
+.parent-header {
+    font-family: sans-serif;
+    font-size: 50px;
+    font-style: italic;
+    text-decoration: underline;
+    color: red;
+}
+
+.parent-text {
+    font-size: 30px;
+    line-height: 2;
+    color: blue;
+    letter-spacing: normal;
+    font-weight: 300;
+}
